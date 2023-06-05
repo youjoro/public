@@ -27,6 +27,24 @@
     font-size-adjust: 10px;
 }
 
+
+.acclinkHover p{
+    height: 3em;
+    padding: 20px 0;
+    color: #ffffff;
+    text-align: center;
+    font-size: medium;
+    transition: all 500ms;
+}
+.acclinkHover p:hover{
+    border-radius: 3em;
+    box-shadow: 5px 10px  rgb(230, 185, 173);
+    background-color: #d35555;
+    font-size: larger;
+    font-size-adjust: 10px;
+}
+
+
 .textHover p{
     font-size: medium;
     transition: all 500ms;
